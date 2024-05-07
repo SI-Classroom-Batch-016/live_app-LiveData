@@ -1,4 +1,4 @@
-package com.example.liveapprecyclerview.adapter
+package com.example.liveapprecyclerview.ui.adapter
 
 import android.util.Log
 import android.view.LayoutInflater
